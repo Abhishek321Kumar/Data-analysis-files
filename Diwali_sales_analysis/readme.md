@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Diwali_sales_analysis/diwali.jpg)
 ## Diwali Sales Analysis
 
 <div><b>Goal</b>: To improve the sales and customer experience for the upcoming Diwlai season </div>
