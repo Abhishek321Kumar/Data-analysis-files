@@ -1,3 +1,5 @@
+
+<img src="" alt="Hotel_image" />
 ## Hotel Booking Analyses
 <div><b>Goal</b>: Help City Hotel and Resort mitigate the number of booking cancellation rates</div>
 <br/>
