@@ -9,9 +9,9 @@
 <br>
 <div><b>Insight</b>:
 <ul>
-<li>Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation sectors show a high propensity to purchase products</li>
-<li>Products from food, clothing and electronics highly likely form the majority of sales </li>
+<li>Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are highly likely to drive sales.</li>
+<li>The Food, Clothing, and Electronics categories dominate preferences and are poised to contribute significantly to revenue generation during the festive season. </li>
 </ul>  
 </div>
 <br>
-<div><b>Conclusion</b>: 
+<div><b>Conclusion</b>: Targeted campaigns highlighting festive deals on food, clothing, and electronics, coupled with personalized offers for the identified customer demographic, can maximize sales and customer satisfaction.</div>
