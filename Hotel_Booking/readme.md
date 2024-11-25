@@ -1,5 +1,5 @@
 ## Hotel Booking Analyses
-<div><b>Goal</b>: Help City Hotel and Resort with reducing number of booking cancellation rates</div>
+<div><b>Goal</b>: Help City Hotel and Resort mitigate the number of booking cancellation rates</div>
 <br/>
 <div><b>Project Overview</b>:</div>
 <br/>
