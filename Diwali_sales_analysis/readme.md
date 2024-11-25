@@ -9,7 +9,7 @@
 <br>
 <div><b>Results</b>:
 <ul>
-<li>Improved customer experience by identifying poetntial customers acros different states, occupation, gender and age groups.</li>
+<li>Improved customer experience by identifying poetntial customers across different states, occupation, gender and age groups.</li>
 <li>Imporved sales by identifying the most selling product categories and products, which can help plan inventory and meet the demands.</li>
 </ul>  
 </div>
