@@ -1,7 +1,7 @@
 <img src='https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Diwali_sales_analysis/diwali.jpg' alt='Diwali_image' width="100%" height="300"></img>
 ## Diwali Sales Analysis
 
-<div><b>Goal</b>: To improve the sales and customer experience for the upcoming Diwlai season </div>
+<div><b>Goal</b>: To improve the sales and customer experience for the upcoming Diwali season </div>
 <br>
 <div><b>Project Overview</b>: This project focuses on analyzing a comprehensive sales dataset to uncover customer behavior patterns, product preferences, and effective targeting strategies. By identifying key trends and actionable insights, the analysis aims to optimize marketing efforts, inventory planning, and overall business performance during the festive season.</div>
 <br>
