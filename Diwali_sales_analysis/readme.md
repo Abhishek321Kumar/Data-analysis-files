@@ -1,4 +1,5 @@
-<div>## Diwali Sales Analysis</div>
+![alt text](http://url/to/img.png)
+## Diwali Sales Analysis
 
 <div><b>Goal</b>: To improve the sales and customer experience for the upcoming Diwlai season </div>
 <br>
