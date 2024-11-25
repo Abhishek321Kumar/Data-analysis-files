@@ -1,4 +1,4 @@
-## Diwali_Sales_Analysis
+## Diwali Sales Analysis
 <div><b>Goal</b>: To improve the sales and customer experience for the upcoming festive season </div>
 <br>
 <div><b>Description</b>: This project is focused on analysing the previous year sales dataset of a company to identify the targeting criteria, product demands and customer behaviour helping to imporve the business performance during the upcoming festive season. The dataset includes products, Gender,Age group, Marital status, State, Zone ,Occupation, Amount and other relevant information. The project involved loading the dataset, cleaning and preprocessing it and performing exploratory data analysis (EDA) to discover key insights.</div>
