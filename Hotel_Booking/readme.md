@@ -19,9 +19,8 @@
 <br/>
 <div><b>Conclusion</b>:
 <ul>
-<li>Higher ADR rates leads to higher cancellation. Lowering the prices of the hotels may be a good strategy, especially during weekends and holidays.</li>
-<li>Improving the quality of hotel servicing, incuding the maintaincence can be a great way to reduce cancellation rates.</li>
-<li>Most of the bookings are done through online travel agency. Collaborating with good online travel agency might be a good way to increase your bookings.</li>
-<li>Imporving marketing efforts might </li>
+<li>Higher ADR rates are linked to higher cancellation rates. Lowering hotel prices, particularly during weekends and holidays, could be an effective strategy to reduce cancellations.</li>
+<li>Enhancing the quality of hotel services, including maintenance, can help minimize cancellations by improving customer satisfaction.</li>
+<li>A significant portion of bookings comes through online travel agencies (OTAs), so partnering with reputable OTAs could help boost bookings. Additionally, strengthening marketing efforts could attract more customers and reduce cancellations.</li>
 </ul>
 </div>
