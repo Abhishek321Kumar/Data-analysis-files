@@ -12,7 +12,7 @@
 <div><b>Insights</b>:
   <ul>
 <li>The primary factor leading to higher cancellation rates is the higher ADR rates for both Resort hotels and City hotels. Resort hotels often remains higher than city hotels.</li>
-<li>>Portugal remains the topmost country for higher cancellation rates on Hotel bookings.</li
+<li>Portugal remains the topmost country for higher cancellation rates on Hotel bookings.</li
 <li>Source of booking can be other potential factor, witnessing higher number of bookings through online travel Agency but also with higher cancellation rates and very less in direct booking. </li>
 </ul>
 </div>
