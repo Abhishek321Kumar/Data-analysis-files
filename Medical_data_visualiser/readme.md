@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Demographic analysis/demographic.jpg" alt="demographic data" width="100%" height="300" style="object-fit:cover; " />
+<img src="https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Medical_data_visualiser/lifestyle.jpg" alt="demographic data" width="100%" height="300" style="object-fit:cover; " />
 
 ## Medical data visualisation
 <div><b>Goal:</b> Analysing medical data to discover relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.</div>
