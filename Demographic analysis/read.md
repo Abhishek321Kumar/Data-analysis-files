@@ -1,8 +1,5 @@
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
 
-<img src="https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Demographic analysis/demographic.jpg" alt="demographic data" width="100%" height="300" />
+<img src="https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Demographic analysis/demographic.jpg" alt="demographic data" width="100%" height="300" style=" object-fit:cover" />
 
 ## Demographic analysis
 <p>This is a simple analysis on demographical data in the form of Questions and Answers. This was a part of my certification program.</p>
