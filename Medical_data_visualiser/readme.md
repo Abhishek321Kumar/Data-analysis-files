@@ -10,11 +10,12 @@
 <br/>
 <div><b>Insights:</b> 
 <ul>
-<li>This dataset covers different races of people out of which 85% are whites, 9% are blacks, 3% are Asian and rest are Amer-Indian-Eskimo and others.</li>  
-<li>People who have completed advanced education which includes Bachelors, Masters and Doctorate have better chance of earning more than 50K a month compared to those who have done only high school or 11th.</li>  
-<li>There only only 10 percent of people who earn more than 50K working minumum hours.</li>
-<li>Out of 42 countries, Iran is the top country with highest percentage of people earning more than 50K.</li>
-<li>In India, the most popular occupation offering salary package more than 50K is "prof-speciality".</li>
+<li>Individuals without cardiovascular conditions (cardio = 0) are more likely to be active compared to those with conditions (cardio = 1).</li>  
+<li>Higher cholesterol levels are more common in individuals with cardiovascular conditions (cardio = 1) compared to those without.</li>  
+<li>Smoking prevalence and alcohol cconsumption is slightly higher among those without cardiovascular conditions, though the difference is not very pronounced</li>
+<li>Being overweight is more common in individuals with cardiovascular conditions (cardio = 1), though it is significant in both groups.</li>
+<li>Elevated glucose levels are also positively correlated with cardiovascular conditions.Also individuals with high cholesterol also tend to have higher glucose levels.</li>
+<li>A moderate positive correlation suggests that people who consume alcohol might also smoke.</li>
 </ul>
 </div>
 
