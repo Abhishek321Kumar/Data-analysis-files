@@ -1,11 +1,10 @@
 
 <img src="https://github.com/Abhishek321Kumar/Data-analysis-files/blob/main/Demographic analysis/demographic.jpg" alt="demographic data" width="100%" height="300" style="object-fit:cover; " />
 
-## Demographic analysis
-<p>This is a simple analysis on demographical data in the form of Questions and Answers. This was a part of my certification program.</p>
-<div><b>Goal:</b> To analyse demographic data to uncover insights.</div>
+## Medical data visualisation
+<div><b>Goal:</b> Analysing medical data to discover relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.</div>
 <br/>
-<div><b>Skills:</b> Data analysis</div>
+<div><b>Skills:</b> Data cleaning, Data analysis, Data transformation & Data Visualisation</div>
 <br/>
 <div><b>Technology:</b> Python</div>
 <br/>
