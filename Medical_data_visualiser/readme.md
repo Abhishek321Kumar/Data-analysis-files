@@ -18,4 +18,5 @@
 <li>A moderate positive correlation suggests that people who consume alcohol might also smoke.</li>
 </ul>
 </div>
-
+<br/>
+<div><b>Conlusion:</b> Cholesterol, glucose, and weight are the most significant contributors to cardiovascular conditions. Interventions targeting these factors could reduce risks. </div>
